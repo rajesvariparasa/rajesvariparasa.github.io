@@ -148,7 +148,7 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin></i>"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rajesvari-parasa/"
 
 
