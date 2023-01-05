@@ -147,9 +147,9 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin></i>"
+      url: "https://www.linkedin.com/in/rajesvari-parasa/"
 
 
 # Reading Files
