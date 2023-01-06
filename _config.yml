@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Rajeswari Parasa"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : <p style = "text-align: justify">Master's student at the Copernicus Digital Earth program at the University of Salzburg and University of South Brittany.</p>
+  bio              : "<p style = "text-align: justify">Master's student at the Copernicus Digital Earth program at the University of Salzburg and University of South Brittany.</p>"
   location         : "Salzburg, Austria"
   email            : #"rajeswari.parasa@stud.sbg.ac.at"
   links:
