@@ -8,3 +8,16 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+@media {
+
+.author__avatar {
+display: table-cell;
+vertical-align: top;
+width: 250px; 
+height: 250px; 
+
+@include breakpoint($large) {
+display: block;
+width: auto;
+height: auto;
+}
