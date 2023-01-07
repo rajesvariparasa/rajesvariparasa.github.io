@@ -74,34 +74,35 @@ The paper investigates the urban open data landscape in India by looking at the 
 
 ## Blogs
 <ol start = "7">
-<li><strong>Methods to measure spatial access to healthcare facilities in cities: A case study of the urban poor in Chennai (2021)</strong><br>
-<em>Rajeswari Parasa, Harsh Vardhan Pachisia and Isalyne Gennaro</em><br>
-The study explores open-source tools and libraries to analyse geographic distances from slums in a city to the primary healthcare centres in an Indian city. It argues for undertaking similar geospatial analysis while planning new health facilities.
+<li><strong>Embed open data principles in Master Plans to make planning more inclusive and participatory
+</strong><br>
+<em>Rajeswari Parasa and Harsh Vardhan Pachisia</em><br>
+In the context of Delhi Master Plan 2041, we argue for opening up spatial datasets generated through city plans to improve public participation.
 <br>
 
-<a href = "/assets/docs/access-to-healthfacilities.pdf">Download Paper</a>
+<a href = "http://web.archive.org/web/20211202065606/https://datagovernance.org/article/embed-open-data-principles-in-master-plans-to-make-planning-more-inclusive">Link</a>
 
 <br></li></ol>
 <hr/>
 
 <ol start = "8">
 <li><strong>Methods to measure spatial access to healthcare facilities in cities: A case study of the urban poor in Chennai (2021)</strong><br>
-<em>Rajeswari Parasa, Harsh Vardhan Pachisia and Isalyne Gennaro</em><br>
-The study explores open-source tools and libraries to analyse geographic distances from slums in a city to the primary healthcare centres in an Indian city. It argues for undertaking similar geospatial analysis while planning new health facilities.
+<em>Nikita Kwatra and Rajeswari Parasa</em><br>
+In this piece, we analyse COVID-19 bed capacity and occupany data published by Municipal Corporation of Greater Mumbai to better understand the system's response to the surge of infections over time. We also look at the usefulness of monitoring test positivity rate to better prepare for upcoming infection surges and demand for hospital beds.
 <br>
 
-<a href = "/assets/docs/access-to-healthfacilities.pdf">Download Paper</a>
+<a href = "https://www.idfcinstitute.org/blog/2021/july/covid-19-bed-management-in-mumbai/">Link</a>
 
 <br></li></ol>
 <hr/>
 
 <ol start = "9">
-<li><strong>Methods to measure spatial access to healthcare facilities in cities: A case study of the urban poor in Chennai (2021)</strong><br>
-<em>Rajeswari Parasa, Harsh Vardhan Pachisia and Isalyne Gennaro</em><br>
-The study explores open-source tools and libraries to analyse geographic distances from slums in a city to the primary healthcare centres in an Indian city. It argues for undertaking similar geospatial analysis while planning new health facilities.
+<li><strong>Status Quo of Spatial Datasets of Health Facilities in India</strong><br>
+<em>Rajeswari Parasa</em><br>
+The piece looks at existing openly available spatial datasets of health facilities in India, highlights gaps and the immediate need to fill those gaps.
 <br>
 
-<a href = "/assets/docs/access-to-healthfacilities.pdf">Download Paper</a>
+<a href = "https://www.idfcinstitute.org/blog/2021/april/status-quo-of-spatial-datasets-of-health-facilities-in-india/">Link</a>
 
 <br></li></ol>
 <hr/>
