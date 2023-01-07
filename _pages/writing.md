@@ -71,3 +71,37 @@ The paper investigates the urban open data landscape in India by looking at the 
  
 <br></li></ol>
 <hr/>
+
+## Blogs
+<ol start = "7">
+<li><strong>Methods to measure spatial access to healthcare facilities in cities: A case study of the urban poor in Chennai (2021)</strong><br>
+<em>Rajeswari Parasa, Harsh Vardhan Pachisia and Isalyne Gennaro</em><br>
+The study explores open-source tools and libraries to analyse geographic distances from slums in a city to the primary healthcare centres in an Indian city. It argues for undertaking similar geospatial analysis while planning new health facilities.
+<br>
+
+<a href = "/assets/docs/access-to-healthfacilities.pdf">Download Paper</a>
+
+<br></li></ol>
+<hr/>
+
+<ol start = "8">
+<li><strong>Methods to measure spatial access to healthcare facilities in cities: A case study of the urban poor in Chennai (2021)</strong><br>
+<em>Rajeswari Parasa, Harsh Vardhan Pachisia and Isalyne Gennaro</em><br>
+The study explores open-source tools and libraries to analyse geographic distances from slums in a city to the primary healthcare centres in an Indian city. It argues for undertaking similar geospatial analysis while planning new health facilities.
+<br>
+
+<a href = "/assets/docs/access-to-healthfacilities.pdf">Download Paper</a>
+
+<br></li></ol>
+<hr/>
+
+<ol start = "9">
+<li><strong>Methods to measure spatial access to healthcare facilities in cities: A case study of the urban poor in Chennai (2021)</strong><br>
+<em>Rajeswari Parasa, Harsh Vardhan Pachisia and Isalyne Gennaro</em><br>
+The study explores open-source tools and libraries to analyse geographic distances from slums in a city to the primary healthcare centres in an Indian city. It argues for undertaking similar geospatial analysis while planning new health facilities.
+<br>
+
+<a href = "/assets/docs/access-to-healthfacilities.pdf">Download Paper</a>
+
+<br></li></ol>
+<hr/>
