@@ -66,7 +66,7 @@ The paper investigates the urban open data landscape in India by looking at the 
 
 <ol start = "6">
 <li><strong>SARS CoV-2 seroprevalence in Tamil Nadu in October-November 2020 (2021)</strong><br>
- <em>Anup Malani, Sabareesh Ramachandran, Vaidehi Tandel, Rajeswari Parasa, Sofia Imad, S. Sudharshini, V. Prakash, Y. Yogananth, S. Raju, T.S. Selvavinayagam</em> <br>
+<em>Anup Malani, Sabareesh Ramachandran, Vaidehi Tandel, Rajeswari Parasa, Sofia Imad, S. Sudharshini, V. Prakash, Y. Yogananth, S. Raju, T.S. Selvavinayagam</em> <br>
  
 <a href = "https://artha.global/working-paper/sars-cov-2-seroprevalence-in-tamil-nadu-in-october-november-2020/">Link</a>
  
@@ -76,7 +76,7 @@ The paper investigates the urban open data landscape in India by looking at the 
 ## Personal Projects
 
 <ol start = "7">
-<li><strong>Interactive tool for visualising Delhi Draft Master Plan 2041</em><br>
+<li><strong>Interactive tool for visualising Delhi Draft Master Plan 2041</strong><br>
 <em><a href= "https://nikhilvj.co.in/">Nikhil VJ </a> and Rajeswari Parasa</em><br>
 We built the tool to make the spatial data of the draft plan more accessible to researchers and citizens. The tool was used by the <a href = "https://www.mainbhidilli.com/">Main Bhi Dilli campaign </a> as part of their work to raise awareness about the plan among people the plan impacted the most.
 <br>
@@ -87,7 +87,7 @@ We built the tool to make the spatial data of the draft plan more accessible to 
 <hr/>
 
 <ol start = "8">
-<li><strong>Exploring spatial routing libraries in python</em><br>
+<li><strong>Exploring spatial routing libraries in python</strong><br>
 <em>Rajeswari Parasa</em><br>
 In this notebook, I explore Networkx & OSMNx, OSRM (free and open source) and Google Maps Direction API for finding street network based routes between a set of origin-destination (O-D) points and cmpare them visually.
 <br>
@@ -100,8 +100,7 @@ In this notebook, I explore Networkx & OSMNx, OSRM (free and open source) and Go
 ## Short Pieces
 
 <ol start = "9">
-<li><strong>Embed open data principles in Master Plans to make planning more inclusive and participatory
-</strong><br>
+<li><strong>Embed open data principles in Master Plans to make planning more inclusive and participatory</strong><br>
 <em>Rajeswari Parasa and Harsh Vardhan Pachisia</em><br>
 In the context of Delhi Master Plan 2041, we argue for opening up spatial datasets generated through city plans to improve public participation.
 <br>
