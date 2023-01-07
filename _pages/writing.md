@@ -16,7 +16,7 @@ toc_icon: "gear"
 <ol start = "1">
 <li><strong>Methods to measure spatial access to healthcare facilities in cities: A case study of the urban poor in Chennai (2021)</strong><br>
 <em>Rajeswari Parasa, Harsh Vardhan Pachisia and Isalyne Gennaro</em><br>
-The study explores open-source tools and libraries to analyse geographic distances from slums in a city to the primary healthcare centres in an Indian city. It argues for undertaking similar geospatial analysis while planning new health facilities.
+The study explores open-source tools and libraries to analyse geographic distances from slums to the nearest primary healthcare centres in an Indian city. It argues for undertaking similar geospatial analysis while planning new health facilities.
 <br>
 
 <a href = "/assets/docs/access-to-healthfacilities.pdf">Download Paper</a>
