@@ -2,10 +2,11 @@
 main:
   #- title: "Home" 
   #  url: /
-  - title: "Projects & Writing"
-    url: /writing/
   - title: "Home"
     url: /
+  - title: "Projects & Writing"
+    url: /writing/
+
  # - title: "CV"
  #  url: /cv/
  #- title: "Misc"
