@@ -17,11 +17,9 @@ toc_icon: "gear"
 <em>Rajeswari Parasa, Harsh Vardhan Pachisia and Isalyne Gennaro</em><br>
 The study explores open-source tools and libraries to analyse geographic distances from slums in a city to the primary healthcare centres in an Indian city. It argues for undertaking similar geospatial analysis while planning new health facilities.
 <br>
-<<<<<<< HEAD
+
 <a href = "/assets/docs/access-to-healthfacilities.pdf">Download Paper</a>
-=======
-[Download Paper](/assets/access-to-healthfacilities.pdf)
->>>>>>> 344f1606631ffe0dc1ed8ba98fda8041f0d343fc
+
 <br></li></ol>
 <hr/>
 
@@ -30,11 +28,10 @@ The study explores open-source tools and libraries to analyse geographic distanc
 <em>Sridhar Ganapathy, Harsh Vardhan Pachisia, Rajeswari Parasa and Isalyne Gennaro</em><br>
 The paper studies and evaluates national open government data (OGD) platforms of several countries and the policy frameworks that guide the creation and use of these platforms. It makes recommendations for India's OGD platform.
 <br>
-<<<<<<< HEAD
+
 <a href="/assets/docs/globalplatforms-open-data.pdf">Download Paper</a>
-=======
-[Download Paper](/assets/globalplatforms-open-data.pdf)
->>>>>>> 344f1606631ffe0dc1ed8ba98fda8041f0d343fc
+
+
 <br></li></ol>
 <hr/>
 
@@ -44,7 +41,7 @@ The paper studies and evaluates national open government data (OGD) platforms of
 The paper investigates the urban open data landscape in India by looking at the stakeholders and aspects of data quality and accessibility.
 <br>
  
-[Link](https://artha.global/working-paper/the-state-of-open-data-in-urban-india/)
+<a href="https://artha.global/working-paper/the-state-of-open-data-in-urban-india/">Link</a>
  
 <br></li></ol>
 <hr/>
