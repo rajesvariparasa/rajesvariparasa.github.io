@@ -89,7 +89,7 @@ We built the tool to make the spatial data of the draft plan more accessible to 
 <ol start = "8">
 <li><strong>Exploring spatial routing libraries in python</strong><br>
 <em>Rajeswari Parasa</em><br>
-In this notebook, I explore Networkx & OSMNx, OSRM (free and open source) and Google Maps Direction API for finding street network based routes between a set of origin-destination (O-D) points and cmpare them visually.
+In this notebook, I explore Networkx & OSMNx, OSRM (free and open source) and Google Maps Direction API for finding street network based routes between a set of origin-destination (O-D) points and compare them visually.
 <br>
 
 <a href = "https://medium.com/@prkrajesvari3/using-osrm-osmnx-networkx-and-google-maps-directions-api-with-python-for-spatial-routes-3e4709a0d1bb">About</a>, <a href = "https://github.com/rajesvariparasa/spatial-routing-libraries-and-services">Code</a>
