@@ -78,7 +78,7 @@ The paper investigates the urban open data landscape in India by looking at the 
 <ol start = "7">
 <li><strong>Interactive tool for visualising Delhi Draft Master Plan 2041</strong><br>
 <em><a href= "https://nikhilvj.co.in/">Nikhil VJ </a> and Rajeswari Parasa</em><br>
-We built the tool to make the spatial data of the draft plan more accessible to researchers and citizens. The tool was used by the <a href = "https://www.mainbhidilli.com/">Main Bhi Dilli campaign </a> as part of their work to raise awareness about the plan among people the plan impacted the most.
+We built the tool to make the spatial data of the draft plan more accessible to researchers and citizens. The tool was used by the <a href = "https://www.mainbhidilli.com/">Main Bhi Dilli campaign </a> as part of their work to raise awareness about the plan among people.
 <br>
 
 <a href = "https://draftmpd41.github.io/#10/28.5996/77.1007">Link to the tool</a>
