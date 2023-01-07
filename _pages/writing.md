@@ -10,6 +10,7 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
+
 ## Working Papers and Reports
 
 <ol start = "1">
@@ -65,15 +66,40 @@ The paper investigates the urban open data landscape in India by looking at the 
 
 <ol start = "6">
 <li><strong>SARS CoV-2 seroprevalence in Tamil Nadu in October-November 2020 (2021)</strong><br>
- <em>Anup Malani, Vaidehi Tandel, Rajeswari Parasa & Sofia Imad</em> <br>
+ <em>Anup Malani, Sabareesh Ramachandran, Vaidehi Tandel, Rajeswari Parasa, Sofia Imad, S. Sudharshini, V. Prakash, Y. Yogananth, S. Raju, T.S. Selvavinayagam</em> <br>
  
 <a href = "https://artha.global/working-paper/sars-cov-2-seroprevalence-in-tamil-nadu-in-october-november-2020/">Link</a>
  
 <br></li></ol>
+<hr/><hr/>
+
+## Personal Projects
+
+<ol start = "7">
+<li><strong>Interactive tool for visualising Delhi Draft Master Plan 2041</em><br>
+<em><a href= "https://nikhilvj.co.in/">Nikhil VJ </a> and Rajeswari Parasa</em><br>
+We built the tool to make the spatial data of the draft plan more accessible to researchers and citizens. The tool was used by the <a href = "https://www.mainbhidilli.com/">Main Bhi Dilli campaign </a> as part of their work to raise awareness about the plan among people the plan impacted the most.
+<br>
+
+<a href = "https://draftmpd41.github.io/#10/28.5996/77.1007">Link to the tool</a>
+
+<br></li></ol>
 <hr/>
 
-## Blogs
-<ol start = "7">
+<ol start = "8">
+<li><strong>Exploring spatial routing libraries in python</em><br>
+<em>Rajeswari Parasa</em><br>
+In this notebook, I explore Networkx & OSMNx, OSRM (free and open source) and Google Maps Direction API for finding street network based routes between a set of origin-destination (O-D) points and cmpare them visually.
+<br>
+
+<a href = "https://medium.com/@prkrajesvari3/using-osrm-osmnx-networkx-and-google-maps-directions-api-with-python-for-spatial-routes-3e4709a0d1bb">About</a>, <a href = "https://github.com/rajesvariparasa/spatial-routing-libraries-and-services">Code</a>
+
+<br></li></ol>
+<hr/><hr/>
+
+## Short Pieces
+
+<ol start = "9">
 <li><strong>Embed open data principles in Master Plans to make planning more inclusive and participatory
 </strong><br>
 <em>Rajeswari Parasa and Harsh Vardhan Pachisia</em><br>
@@ -85,8 +111,8 @@ In the context of Delhi Master Plan 2041, we argue for opening up spatial datase
 <br></li></ol>
 <hr/>
 
-<ol start = "8">
-<li><strong>Methods to measure spatial access to healthcare facilities in cities: A case study of the urban poor in Chennai (2021)</strong><br>
+<ol start = "10">
+<li><strong>How Well Did Bed Capacity Respond To Patient Needs In Mumbai?</strong><br>
 <em>Nikita Kwatra and Rajeswari Parasa</em><br>
 In this piece, we analyse COVID-19 bed capacity and occupany data published by Municipal Corporation of Greater Mumbai to better understand the system's response to the surge of infections over time. We also look at the usefulness of monitoring test positivity rate to better prepare for upcoming infection surges and demand for hospital beds.
 <br>
@@ -96,7 +122,7 @@ In this piece, we analyse COVID-19 bed capacity and occupany data published by M
 <br></li></ol>
 <hr/>
 
-<ol start = "9">
+<ol start = "11">
 <li><strong>Status Quo of Spatial Datasets of Health Facilities in India</strong><br>
 <em>Rajeswari Parasa</em><br>
 The piece looks at existing openly available spatial datasets of health facilities in India, highlights gaps and the immediate need to fill those gaps.
@@ -106,3 +132,4 @@ The piece looks at existing openly available spatial datasets of health faciliti
 
 <br></li></ol>
 <hr/>
+
