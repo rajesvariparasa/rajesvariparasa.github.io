@@ -17,7 +17,7 @@ toc_icon: "gear"
 <em>Rajeswari Parasa, Harsh Vardhan Pachisia and Isalyne Gennaro</em><br>
 The study explores open-source tools and libraries to analyse geographic distances from slums in a city to the primary healthcare centres in an Indian city. It argues for undertaking similar geospatial analysis while planning new health facilities.
 <br>
-[Download Paper](/assets/docs/access-to-healthfacilities.pdf)
+[Download Paper](/assets/access-to-healthfacilities.pdf)
 <br></li></ol>
 <hr/>
 
@@ -26,7 +26,7 @@ The study explores open-source tools and libraries to analyse geographic distanc
 <em>Sridhar Ganapathy, Harsh Vardhan Pachisia, Rajeswari Parasa and Isalyne Gennaro</em><br>
 The paper studies and evaluates national open government data (OGD) platforms of several countries and the policy frameworks that guide the creation and use of these platforms. It makes recommendations for India's OGD platform.
 <br>
-[Download Paper](/assets/docs/globalplatforms-open-data.pdf)
+[Download Paper](/assets/globalplatforms-open-data.pdf)
 <br></li></ol>
 <hr/>
 
