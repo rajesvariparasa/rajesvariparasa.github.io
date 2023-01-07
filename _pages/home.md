@@ -1,6 +1,6 @@
 ---
 title: "Home"
-layout: archive
+layout: home
 classes: wide
 sitemap: true
 permalink: /
