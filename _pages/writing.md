@@ -1,5 +1,5 @@
 ---
-title: "Projects & Writing"
+title: "Work"
 layout: archive
 classes: wide
 sitemap: true
