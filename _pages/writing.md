@@ -41,13 +41,13 @@ In this notebook, I explore Networkx & OSMNx, OSRM (free and open source) and Go
 
 <a href = "https://medium.com/@prkrajesvari3/using-osrm-osmnx-networkx-and-google-maps-directions-api-with-python-for-spatial-routes-3e4709a0d1bb">About</a>, <a href = "https://github.com/rajesvariparasa/spatial-routing-libraries-and-services">Code</a>
 
-<br></li>
+<br></li></ol>
 <hr/><hr/>
 
 
 ## Working Papers and Reports
 
-
+<ol start = "4">
 <li><strong>Methods to measure spatial access to healthcare facilities in cities: A case study of the urban poor in Chennai (2021)</strong><br>
 <em>Rajeswari Parasa, Harsh Vardhan Pachisia and Isalyne Gennaro</em><br>
 The study explores open-source tools and libraries to analyse geographic distances from slums to the nearest primary healthcare centres in an Indian city. It argues for undertaking similar geospatial analysis while planning new health facilities.
@@ -102,17 +102,17 @@ The paper investigates the urban open data landscape in India by looking at the 
  
 <a href = "https://artha.global/working-paper/sars-cov-2-seroprevalence-in-tamil-nadu-in-october-november-2020/">Link</a>
  
-<br></li>
+<br></li></ol>
 <hr/><hr/>
 
 ## Short Pieces
-
+<ol start = "10">
 <li><strong>Embed open data principles in Master Plans to make planning more inclusive and participatory</strong><br>
 <em>Rajeswari Parasa and Harsh Vardhan Pachisia</em><br>
 In the context of Delhi Master Plan 2041, we argue for opening up spatial datasets generated through city plans to improve public participation.
 <br>
 
-<a href = "http://web.archive.org/web/20211202065606/https://datagovernance.org/article/embed-open-data-principles-in-master-plans-to-make-planning-more-inclusive">Link</a>
+<a href = "https://www.datagovernance.org/article/embed-open-data-principles-in-master-plans-to-make-planning-more-inclusive">Link</a>
 
 <br></li>
 <hr/>
