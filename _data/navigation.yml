@@ -3,7 +3,7 @@ main:
 
   - title: "Home"
     url: /
-  - title: "Projects & Writing"
+  - title: "Work"
     url: /writing/
   - title: "CV"
     url: /assets/cv.pdf
