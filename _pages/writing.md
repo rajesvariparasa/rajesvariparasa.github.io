@@ -13,7 +13,7 @@ toc_icon: "gear"
 ## Projects & Experiences
 <ol start = "1">
 
-<li><strong>Timeseries Classification for Crop Identification | Using LSTM</strong><br>
+<li><strong>Timeseries Classification for Crop Identification using LSTM</strong><br>
 <em>Rajeswari Parasa</em><br>
 This project demonstrates time-series classification for crop identification on a subset of the MiniTimeMatch dataset by training a deep learning model with an LSTM architecture. The notebook showcases data exploration, setting up a data preparation pipeline using a custom dataset class, and finetuning the model architecture and the training loop. Code showing usage of trained models for inference on new data in also included.
 <br>
