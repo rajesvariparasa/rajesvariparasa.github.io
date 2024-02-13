@@ -25,7 +25,7 @@ This project demonstrates time-series classification for crop identification on 
 
 <li><strong>Housing Price Prediction</strong><br>
 <em>Rajeswari Parasa & <a href = "https://candelasolpelliza.com/">Candela Sol Pelliza </a></em><br>
-The project produced a set of notebooks detailing data exploration and preparation followed by a demonstration of three regression models applied to the data with different configurations. These different models include Basic Linear Regression, Linear Regression with ElasticNet Regularization, Random Forest Model, Random Forest with Boruta Feature Selection, and Catboost Model. The notebooks also demonstrate workflows for hyperparameter tuning for each of the models.
+In this exercise, we build and test various regression models to predict housing prices in Ames, Iowa. The project produced a set of notebooks detailing data exploration and preparation steps, followed by a demonstration of three regression models, with different configurations, applied to the preprocessed data. These different models include Basic Linear Regression, Linear Regression with ElasticNet Regularization, Random Forest Model, Random Forest with Boruta Feature Selection, and Catboost Model. The notebooks also demonstrate workflows for hyperparameter tuning for each of the models.
 <br>
 
 <a href = "https://github.com/rajesvariparasa/ml-processing-pipeline-for-predicting-houseprices">Code Repo</a>
