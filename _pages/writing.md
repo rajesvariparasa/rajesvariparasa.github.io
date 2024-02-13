@@ -13,6 +13,26 @@ toc_icon: "gear"
 ## Projects & Experiences
 <ol start = "1">
 
+<li><strong>Timeseries Classification for Crop Identification | Using LSTM</strong><br>
+<em>Rajeswari Parasa</em><br>
+This project demonstrates time-series classification for crop identification on a subset of the MiniTimeMatch dataset by training a deep learning model with an LSTM architecture. The notebook showcases data exploration, setting up a data preparation pipeline using a custom dataset class, and finetuning the model architecture and the training loop. Code showing usage of trained models for inference on new data in also included.
+<br>
+
+<a href = "https://github.com/rajesvariparasa/timeseries-classification-lstm">Code Repo</a>
+
+<br></li>
+<hr/>
+
+<li><strong>Housing Price Prediction</strong><br>
+<em>Rajeswari Parasa & <a href = "https://candelasolpelliza.com/">Candela Sol Pelliza </a></em><br>
+The project produced a set of notebooks detailing data exploration and preparation followed by a demonstration of three regression models applied to the data with different configurations. These different models include Basic Linear Regression, Linear Regression with ElasticNet Regularization, Random Forest Model, Random Forest with Boruta Feature Selection, and Catboost Model. The notebooks also demonstrate workflows for hyperparameter tuning for each of the models.
+<br>
+
+<a href = "https://github.com/rajesvariparasa/ml-processing-pipeline-for-predicting-houseprices">Code Repo</a>
+
+<br></li>
+<hr/>
+
 <li><strong>Summer'23 Internship</strong><br>
 <em>Rajeswari Parasa</em><br>
 In the summer of 2023, I interned with the EO Analytics team of the ZGIS department at the University of Salzburg, Austria. Under the guidance of Assoz. Prof Dirk Tiede and Dr Martin Sudmanns, I developed a series of automated workflows to query EO data cubes generated using sen2cube.at infrastructure built on Sentinel-2 data and its semantically enriched data. The workflows are aimed at exploring the potential of EO data cubes in building ESG indicators for monitoring real-estate properties. More specifically, I propose a 'green score' that can be monitored over time to assess the green cover and its changes on a property parcel. I also build a workflow for retrieving the 'semantic history' of a property parcel. These two exercises hint at the potential of EO data cubes in monitoring and assessing the sustainability of real-estate properties.
@@ -28,7 +48,7 @@ In the summer of 2023, I interned with the EO Analytics team of the ZGIS departm
 We built the tool to make the spatial data of the draft plan more accessible to researchers and citizens. The tool was used by the <a href = "https://www.mainbhidilli.com/">Main Bhi Dilli campaign </a> as part of their work to raise awareness about the plan among people.
 <br>
 
-<a href = "https://draftmpd41.github.io/#10/28.5996/77.1007">Link to the tool</a>, 
+<a href = "https://draftmpd41.github.io/#10/28.5996/77.1007">Tool</a>, <a href = "https://github.com/rajesvariparasa/layers_draft_delhi_master_plan_2041"> Code Repo</a>
 
 <br></li>
 <hr/>
