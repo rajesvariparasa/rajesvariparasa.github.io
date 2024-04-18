@@ -13,6 +13,16 @@ toc_icon: "gear"
 ## Projects & Experiences
 <ol start = "1">
 
+<li><strong>Thesis: Knowledge-based semantic enrichment for semantic image segmentation (ongoing)</strong><br>
+<em>Rajeswari Parasa</em><br>
+As part of my master's thesis, I am working on a project that aims to improve the performance of semantic image segmentation models by incorporating human knowledge-based semantic enrichment using Satellite Image Automatic Mapper or SIAM (Baraldi, 2011). The project involves developing a pipeline that uses the semantically enriched image patches (ongoing work of a colleague) and trains a deep learning model to perform a landcover classification task. The project is in its early stages, and I am currently working on developing the baseline models.
+<br>
+
+<a href = "https://github.com/rajesvariparasa/semantic-enrichment-for-semantic-image-segmentation">Code Repo</a>
+
+<br></li>
+<hr/>
+
 <li><strong>Timeseries Classification for Crop Identification using LSTM</strong><br>
 <em>Rajeswari Parasa</em><br>
 This project demonstrates time-series classification for crop identification on a subset of the MiniTimeMatch dataset by training a deep learning model with an LSTM architecture. The notebook showcases data exploration, setting up a data preparation pipeline using a custom dataset class, and finetuning the model architecture and the training loop. Code showing usage of trained models for inference on new data in also included.
