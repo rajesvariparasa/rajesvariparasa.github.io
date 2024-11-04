@@ -15,10 +15,10 @@ toc_icon: "gear"
 
 <li><strong>Thesis: Knowledge-based semantic enrichment for semantic image segmentation (ongoing)</strong><br>
 <em>Rajeswari Parasa</em><br>
-As part of my master's thesis, I am working on a project that aims to improve the performance of semantic image segmentation models by incorporating human knowledge-based semantic enrichment using Satellite Image Automatic Mapper or SIAM (Baraldi, 2011). The project involves developing a pipeline that uses the semantically enriched image patches (ongoing work of a colleague) and trains a deep learning model to perform a landcover classification task. The project is in its early stages, and I am currently working on developing the baseline models.
+My master's thesis project evaluated the impact of incorporation of human knowledge-based semantic enrichment of Sentinel-2 images for image segmentation tasks in Remote Sensing. Particularly, it uses the task of pixel-wise land cover classification to analyse the impact. The project involves developing a pipeline that uses the semantically enriched image patches and trains a deep learning model to perform a landcover classification task. The project conducts experiments in both training-from-scratch and pretraining settings. The results show a notable increase in performance of the deep model with semantic enrichment in the models that are trained from scratch. However, in the pretraining settings, the results were inconclusive of the usefulness of semantic enrichment, potentially due to the limited size of the dataset (unlabelled pixels, i.e. Sentinel patches without corresponding land cover classes patch) used for pretraining.
 <br>
 
-<a href = "https://github.com/rajesvariparasa/semantic-enrichment-for-semantic-image-segmentation">Code Repo</a>
+<a href = "https://github.com/rajesvariparasa/semantic-enrichment-for-semantic-image-segmentation">Code Repo</a>, <a href = "/assets/docs/Parasa_Thesis_v2.pdf">Full Report</a> 
 
 <br></li>
 <hr/>
