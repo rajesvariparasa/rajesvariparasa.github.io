@@ -15,7 +15,7 @@ toc_icon: "gear"
 
 <li><strong>Thesis: Knowledge-based semantic enrichment for semantic image segmentation (ongoing)</strong><br>
 <em>Rajeswari Parasa</em><br>
-My master's thesis project evaluated the impact of incorporation of human knowledge-based semantic enrichment of Sentinel-2 images for image segmentation tasks in Remote Sensing. Particularly, it uses the task of pixel-wise land cover classification to analyse the impact. The project involves developing a pipeline that uses the semantically enriched image patches and trains a deep learning model to perform a landcover classification task. The project conducts experiments in both training-from-scratch and pretraining settings. The results show a notable increase in performance of the deep model with semantic enrichment in the models that are trained from scratch. However, in the pretraining settings, the results were inconclusive of the usefulness of semantic enrichment, potentially due to the limited size of the dataset (unlabelled pixels, i.e. Sentinel patches without corresponding land cover classes patch) used for pretraining.
+My master's thesis project evaluated the impact of incorporating knowledge in deep learning models for image segmentation tasks in Remote Sensing using a semantic enrichment of Sentinel-2 multispectral images. Particularly, it uses a pixel-wise land cover classification task to analyse the impact. The project involves developing PyTorch workflows that use semantically enriched image patches, train a deep-learning model to perform a landcover classification task and obtain inferences on unseen patches for model evaluation. The project conducts experiments in both training-from-scratch and pretraining settings. In the trained-from-scratch models, the results show a notable increase in the performance of the deep model with knowledge-based semantic enrichment. However, in the pretraining settings, the results were inconclusive of the usefulness of semantic enrichment, potentially due to the limited size of the dataset used for pretraining. However, this can be easily overcome by using a much larger number of Sentinel-2 patches, automatically obtaining the corresponding semantic enrichment from the SIAM tool, and repeating the tests shown in this project for further evaluation of pretraining settings. The study showcases the potential value of SIAM-based enrichment for deep learning models in Remote Sensing applications.
 <br>
 
 <a href = "https://github.com/rajesvariparasa/semantic-enrichment-for-semantic-image-segmentation">Code Repo</a>, <a href = "/assets/docs/Parasa_Thesis_v2.pdf">Full Report</a> 
@@ -71,13 +71,13 @@ In this notebook, I explore Networkx & OSMNx, OSRM (free and open source) and Go
 
 <a href = "https://medium.com/@prkrajesvari3/using-osrm-osmnx-networkx-and-google-maps-directions-api-with-python-for-spatial-routes-3e4709a0d1bb">About</a>, <a href = "https://github.com/rajesvariparasa/spatial-routing-libraries-and-services">Code</a>
 
-<br></li></ol>
+<br></li>
 <hr/><hr/>
 
 
 ## Working Papers and Reports
 
-<ol start = "4">
+
 <li><strong>Methods to measure spatial access to healthcare facilities in cities: A case study of the urban poor in Chennai (2021)</strong><br>
 <em>Rajeswari Parasa, Harsh Vardhan Pachisia and Isalyne Gennaro</em><br>
 The study explores open-source tools and libraries to analyse geographic distances from slums to the nearest primary healthcare centres in an Indian city. It argues for undertaking similar geospatial analysis while planning new health facilities.
@@ -132,11 +132,11 @@ The paper investigates the urban open data landscape in India by looking at the 
  
 <a href = "https://artha.global/working-paper/sars-cov-2-seroprevalence-in-tamil-nadu-in-october-november-2020/">Link</a>
  
-<br></li></ol>
+<br></li>
 <hr/><hr/>
 
 ## Short Pieces
-<ol start = "10">
+
 <li><strong>Embed open data principles in Master Plans to make planning more inclusive and participatory</strong><br>
 <em>Rajeswari Parasa and Harsh Vardhan Pachisia</em><br>
 In the context of Delhi Master Plan 2041, we argue for opening up spatial datasets generated through city plans to improve public participation.
